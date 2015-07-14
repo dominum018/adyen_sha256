@@ -2,5 +2,4 @@
 Adyen sha256 signature generating 
 
 
-
-Generates new signature for adyen payment calling  
+Go implementation for generating new signature for adyen payment calling with sha256 
